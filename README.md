@@ -4,14 +4,6 @@ CogniSign is an end-to-end deep learning system that enables real-time recogniti
 
 ---
 
-## 🚀 Demo
-
-![demo](https://github.com/ShresthJn19/Real-Time-Sign-Language-Detection/assets/demo.gif)
-
-> Watch the system detect signs like `hello`, `thank you`, `I love you`, and more in real time with visual feedback.
-
----
-
 ## 🔍 Project Highlights
 
 - 🧩 **Custom Dataset Creation**: Captures and stores landmark coordinates for face, pose, and hands using MediaPipe Holistic.
